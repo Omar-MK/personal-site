@@ -119,9 +119,9 @@ a:hover {
 
 .skill-row {
 	width: 55%;
-	margin: 70px auto;
+	margin: 0 auto;
 	text-align: left;
-	padding-bottom: 70px;
+	padding: 70px;
 }
 
 .contact-btn {
